@@ -1,2 +1,8 @@
 # Local Configuration Script
 settings.cfg
+
+# Generated Directories and Datasets
+data-set/**
+backups/**
+temp/**
+*.csv
