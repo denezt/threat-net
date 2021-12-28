@@ -1,2 +1,2 @@
-# threat-net
+# Threat Net
 Datasets for suspicious activity
